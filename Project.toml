@@ -1,6 +1,6 @@
 name = "RotationConversions"
 uuid = "d960b8a8-300c-4fa1-99dd-36c06559780d"
-authors = ["Alessandro Colotti <alessandro.colotti@ls2n.fr> and contributors"]
+authors = ["Alessandro Colotti and contributors"]
 version = "0.1.0"
 
 [compat]
